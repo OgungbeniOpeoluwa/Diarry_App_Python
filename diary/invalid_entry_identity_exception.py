@@ -1,0 +1,2 @@
+class InvalidEntryIdentityException (ValueError):
+    pass
